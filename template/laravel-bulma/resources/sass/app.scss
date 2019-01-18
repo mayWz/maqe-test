@@ -1,0 +1,11 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+@import "node_modules/font-awesome/scss/font-awesome";
+
+// Variables
+@import "bulma";
+
+// Bulma custom
+$pagination-current-background-color: hsl(348, 100%, 61%);
+$pagination-current-border-color: hsl(348, 100%, 61%);
