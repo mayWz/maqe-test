@@ -1,4 +1,4 @@
 # MAQE 
 # bot -> backend test
-# template -> template
+# template -> template or http://maqe.maywz.info/maqetemplate 
 #
